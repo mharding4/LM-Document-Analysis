@@ -7,10 +7,10 @@ from datetime import datetime
 from sec_edgar_downloader import Downloader
 
 # CONFIGURATION
-TICKERS = ["AAPL", "MSFT", "TSLA", "NVDA", "AMZN"]  # Add more tickers if needed
+TICKERS = ["AAPL", "MSFT", "TSLA", "NVDA", "AMZN"]  
 MAX_ENTRIES = 100
 OLLAMA_URL = "http://localhost:11434/api/generate"
-MODEL = "deepseek-llm"  # or mistral
+MODEL = "deepseek-llm"  
 DOWNLOAD_DIR = "./sec_filings"
 CSV_OUTPUT = "product_announcements.csv"
 
