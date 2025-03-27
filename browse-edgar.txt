@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+  <feed xmlns="http://www.w3.org/2005/Atom">
+    <author>
+      <email>webmaster@sec.gov</email>
+      <name>Webmaster</name>
+    </author>
+    <company-info>
+      <addresses>
+        <address type="mailing">
+          <city>NEW YORK</city>
+          <state>NY</state>
+          <street1>ELEVEN MADISON AVENUE</street1>
+          <zip>10010</zip>
+        </address>
+        <address type="business">
+          <city>NEW YORK</city>
+          <phone>212-325-2000</phone>
+          <state>NY</state>
+          <street1>ELEVEN MADISON AVENUE</street1>
+          <zip>10010</zip>
+        </address>
+      </addresses>
+      <cik>0000810766</cik>
+      <cik-href>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0000810766&amp;owner=include&amp;count=40</cik-href>
+      <conformed-name>CREDIT SUISSE ASSET MANAGEMENT INCOME FUND, INC.</conformed-name>
+      <fiscal-year-end>1231</fiscal-year-end>
+      <formerly-names count="5">
+        <names>
+          <date>1999-04-06</date>
+          <name>BEA INCOME FUND INC</name>
+        </names>
+        <names>
+          <date>2024-08-23</date>
+          <name>CREDIT SUISSE ASSET MANAGEMENT INCOME FUND INC</name>
+        </names>
+        <names>
+          <date>1995-06-08</date>
+          <name>CS FIRST BOSTON INCOME FUND INC</name>
+        </names>
+        <names>
+          <date>2004-03-01</date>
+          <name>CSAM INCOME FUND</name>
+        </names>
+        <names>
+          <date>1995-02-28</date>
+          <name>FIRST BOSTON INCOME FUND INC</name>
+        </names>
+      </formerly-names>
+      <state-location>NY</state-location>
+      <state-location-href>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;State=NY&amp;owner=include&amp;count=40</state-location-href>
+      <state-of-incorporation>MD</state-of-incorporation>
+    </company-info>
+    <entry>
+      <category label="form type" scheme="https://www.sec.gov/" term="8-K" />
+      <content type="text/xml">
+        <accession-number>0001104659-24-073896</accession-number>
+        <act>34</act>
+        <file-number>811-05012</file-number>
+        <file-number-href>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=811-05012&amp;owner=include&amp;count=40</file-number-href>
+        <filing-date>2024-06-21</filing-date>
+        <filing-href>https://www.sec.gov/Archives/edgar/data/810766/000110465924073896/0001104659-24-073896-index.htm</filing-href>
+        <filing-type>8-K</filing-type>
+        <film-number>241059944</film-number>
+        <form-name>Current report</form-name>
+        <items-desc>item 4.01</items-desc>
+        <size>197 KB</size>
+        <xbrl_href>https://www.sec.gov/cgi-bin/viewer?action=view&amp;cik=810766&amp;accession_number=0001104659-24-073896&amp;xbrl_type=v</xbrl_href>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001104659-24-073896</id>
+      <link href="https://www.sec.gov/Archives/edgar/data/810766/000110465924073896/0001104659-24-073896-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2024-06-21 &lt;b&gt;AccNo:&lt;/b&gt; 0001104659-24-073896 &lt;b&gt;Size:&lt;/b&gt; 197 KB&lt;br&gt;Item 4.01: Changes in Registrant's Certifying Accountant</summary>
+      <title>8-K  - Current report</title>
+      <updated>2024-06-21T15:40:31-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="https://www.sec.gov/" term="8-K" />
+      <content type="text/xml">
+        <accession-number>0001104659-24-056478</accession-number>
+        <act>34</act>
+        <file-number>811-05012</file-number>
+        <file-number-href>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=811-05012&amp;owner=include&amp;count=40</file-number-href>
+        <filing-date>2024-05-02</filing-date>
+        <filing-href>https://www.sec.gov/Archives/edgar/data/810766/000110465924056478/0001104659-24-056478-index.htm</filing-href>
+        <filing-type>8-K</filing-type>
+        <film-number>24909618</film-number>
+        <form-name>Current report</form-name>
+        <items-desc>items 4.01, 8.01and9.01</items-desc>
+        <size>208 KB</size>
+        <xbrl_href>https://www.sec.gov/cgi-bin/viewer?action=view&amp;cik=810766&amp;accession_number=0001104659-24-056478&amp;xbrl_type=v</xbrl_href>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001104659-24-056478</id>
+      <link href="https://www.sec.gov/Archives/edgar/data/810766/000110465924056478/0001104659-24-056478-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2024-05-02 &lt;b&gt;AccNo:&lt;/b&gt; 0001104659-24-056478 &lt;b&gt;Size:&lt;/b&gt; 208 KB&lt;br&gt;Item 4.01: Changes in Registrant's Certifying Accountant&lt;br&gt;Item 8.01: Other Events&lt;br&gt;Item 9.01: Financial Statements and Exhibits</summary>
+      <title>8-K  - Current report</title>
+      <updated>2024-05-02T17:08:41-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="https://www.sec.gov/" term="8-K" />
+      <content type="text/xml">
+        <accession-number>0001104659-23-125761</accession-number>
+        <act>34</act>
+        <file-number>811-05012</file-number>
+        <file-number-href>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=811-05012&amp;owner=include&amp;count=40</file-number-href>
+        <filing-date>2023-12-13</filing-date>
+        <filing-href>https://www.sec.gov/Archives/edgar/data/810766/000110465923125761/0001104659-23-125761-index.htm</filing-href>
+        <filing-type>8-K</filing-type>
+        <film-number>231484796</film-number>
+        <form-name>Current report</form-name>
+        <items-desc>item 8.01</items-desc>
+        <size>198 KB</size>
+        <xbrl_href>https://www.sec.gov/cgi-bin/viewer?action=view&amp;cik=810766&amp;accession_number=0001104659-23-125761&amp;xbrl_type=v</xbrl_href>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001104659-23-125761</id>
+      <link href="https://www.sec.gov/Archives/edgar/data/810766/000110465923125761/0001104659-23-125761-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2023-12-13 &lt;b&gt;AccNo:&lt;/b&gt; 0001104659-23-125761 &lt;b&gt;Size:&lt;/b&gt; 198 KB&lt;br&gt;Item 8.01: Other Events</summary>
+      <title>8-K  - Current report</title>
+      <updated>2023-12-13T17:02:37-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="https://www.sec.gov/" term="8-K" />
+      <content type="text/xml">
+        <accession-number>0001104659-23-070836</accession-number>
+        <act>34</act>
+        <file-number>811-05012</file-number>
+        <file-number-href>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=811-05012&amp;owner=include&amp;count=40</file-number-href>
+        <filing-date>2023-06-13</filing-date>
+        <filing-href>https://www.sec.gov/Archives/edgar/data/810766/000110465923070836/0001104659-23-070836-index.htm</filing-href>
+        <filing-type>8-K</filing-type>
+        <film-number>231011647</film-number>
+        <form-name>Current report</form-name>
+        <items-desc>item 8.01</items-desc>
+        <size>201 KB</size>
+        <xbrl_href>https://www.sec.gov/cgi-bin/viewer?action=view&amp;cik=810766&amp;accession_number=0001104659-23-070836&amp;xbrl_type=v</xbrl_href>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001104659-23-070836</id>
+      <link href="https://www.sec.gov/Archives/edgar/data/810766/000110465923070836/0001104659-23-070836-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2023-06-13 &lt;b&gt;AccNo:&lt;/b&gt; 0001104659-23-070836 &lt;b&gt;Size:&lt;/b&gt; 201 KB&lt;br&gt;Item 8.01: Other Events</summary>
+      <title>8-K  - Current report</title>
+      <updated>2023-06-13T16:33:15-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="https://www.sec.gov/" term="8-K" />
+      <content type="text/xml">
+        <accession-number>0001193125-20-181735</accession-number>
+        <act>34</act>
+        <file-number>811-05012</file-number>
+        <file-number-href>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=811-05012&amp;owner=include&amp;count=40</file-number-href>
+        <filing-date>2020-06-29</filing-date>
+        <filing-href>https://www.sec.gov/Archives/edgar/data/810766/000119312520181735/0001193125-20-181735-index.htm</filing-href>
+        <filing-type>8-K</filing-type>
+        <film-number>20996388</film-number>
+        <form-name>Current report</form-name>
+        <items-desc>items 4.01 and 9.01</items-desc>
+        <size>32 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001193125-20-181735</id>
+      <link href="https://www.sec.gov/Archives/edgar/data/810766/000119312520181735/0001193125-20-181735-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2020-06-29 &lt;b&gt;AccNo:&lt;/b&gt; 0001193125-20-181735 &lt;b&gt;Size:&lt;/b&gt; 32 KB&lt;br&gt;Item 4.01: Changes in Registrant's Certifying Accountant&lt;br&gt;Item 9.01: Financial Statements and Exhibits</summary>
+      <title>8-K  - Current report</title>
+      <updated>2020-06-29T11:57:04-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="https://www.sec.gov/" term="8-K" />
+      <content type="text/xml">
+        <accession-number>0001193125-15-073390</accession-number>
+        <act>34</act>
+        <file-number>811-05012</file-number>
+        <file-number-href>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=811-05012&amp;owner=include&amp;count=40</file-number-href>
+        <filing-date>2015-03-02</filing-date>
+        <filing-href>https://www.sec.gov/Archives/edgar/data/810766/000119312515073390/0001193125-15-073390-index.htm</filing-href>
+        <filing-type>8-K</filing-type>
+        <film-number>15665231</film-number>
+        <form-name>Current report</form-name>
+        <items-desc>items 4.01 and 9.01</items-desc>
+        <size>24 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001193125-15-073390</id>
+      <link href="https://www.sec.gov/Archives/edgar/data/810766/000119312515073390/0001193125-15-073390-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2015-03-02 &lt;b&gt;AccNo:&lt;/b&gt; 0001193125-15-073390 &lt;b&gt;Size:&lt;/b&gt; 24 KB&lt;br&gt;Item 4.01: Changes in Registrant's Certifying Accountant&lt;br&gt;Item 9.01: Financial Statements and Exhibits</summary>
+      <title>8-K  - Current report</title>
+      <updated>2015-03-02T16:39:54-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="https://www.sec.gov/" term="8-K" />
+      <content type="text/xml">
+        <accession-number>0001193125-14-246897</accession-number>
+        <act>34</act>
+        <file-number>811-05012</file-number>
+        <file-number-href>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=811-05012&amp;owner=include&amp;count=40</file-number-href>
+        <filing-date>2014-06-24</filing-date>
+        <filing-href>https://www.sec.gov/Archives/edgar/data/810766/000119312514246897/0001193125-14-246897-index.htm</filing-href>
+        <filing-type>8-K</filing-type>
+        <film-number>14937096</film-number>
+        <form-name>Current report</form-name>
+        <items-desc>item 8.01</items-desc>
+        <size>17 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001193125-14-246897</id>
+      <link href="https://www.sec.gov/Archives/edgar/data/810766/000119312514246897/0001193125-14-246897-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2014-06-24 &lt;b&gt;AccNo:&lt;/b&gt; 0001193125-14-246897 &lt;b&gt;Size:&lt;/b&gt; 17 KB&lt;br&gt;Item 8.01: Other Events</summary>
+      <title>8-K  - Current report</title>
+      <updated>2014-06-24T13:36:30-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="https://www.sec.gov/" term="8-K" />
+      <content type="text/xml">
+        <accession-number>0001193125-14-215153</accession-number>
+        <act>34</act>
+        <file-number>811-05012</file-number>
+        <file-number-href>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=811-05012&amp;owner=include&amp;count=40</file-number-href>
+        <filing-date>2014-05-28</filing-date>
+        <filing-href>https://www.sec.gov/Archives/edgar/data/810766/000119312514215153/0001193125-14-215153-index.htm</filing-href>
+        <filing-type>8-K</filing-type>
+        <film-number>14873109</film-number>
+        <form-name>Current report</form-name>
+        <items-desc>item 8.01</items-desc>
+        <size>19 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001193125-14-215153</id>
+      <link href="https://www.sec.gov/Archives/edgar/data/810766/000119312514215153/0001193125-14-215153-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2014-05-28 &lt;b&gt;AccNo:&lt;/b&gt; 0001193125-14-215153 &lt;b&gt;Size:&lt;/b&gt; 19 KB&lt;br&gt;Item 8.01: Other Events</summary>
+      <title>8-K  - Current report</title>
+      <updated>2014-05-28T16:30:24-04:00</updated>
+    </entry>
+    <id>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0000810766</id>
+    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK={cik}&amp;type=8-K&amp;start=0&amp;count=40" rel="alternate" type="text/html" />
+    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK={cik}&amp;type=8-K&amp;start=0&amp;count=40&amp;output=atom" rel="self" type="application/atom+xml" />
+    <title>CREDIT SUISSE ASSET MANAGEMENT INCOME FUND, INC.  (0000810766)</title>
+    <updated>2025-03-25T20:12:42-04:00</updated>
+  </feed>
